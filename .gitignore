@@ -1,6 +1,6 @@
 *.DS_Store
 *checkpoint.ipynb
-*.csv
 *.txt
 *.pdf
 *archive*
+*external_data*
